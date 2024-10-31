@@ -12,6 +12,8 @@ SOURCES += \
     src\main.cpp \
     src\widget.cpp
 
+INCLUDEPATH += include
+
 HEADERS += \
     include\widget.h
 
