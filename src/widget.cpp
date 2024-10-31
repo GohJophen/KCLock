@@ -1,6 +1,5 @@
 #include "widget.h"
 
-
 Widget::Widget(QWidget *parent):QWidget(parent),settings("GohJophen", "KCLock"){
 
     // 读取默认值
